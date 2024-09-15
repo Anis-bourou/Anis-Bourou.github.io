@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Algorithms and Data Structures"
 collection: teaching
 type: "Undergraduate course"
 venue: "Université de Paris Cité"
